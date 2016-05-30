@@ -1,6 +1,6 @@
 {
   "name": "header-parser",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal learning project. This implements the header parser project as described by freecodecamp.com under API projects.",
   "main": "index.js",
   "scripts": {
